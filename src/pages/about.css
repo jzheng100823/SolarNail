@@ -1,0 +1,11 @@
+.aboutDiv{
+    display:flex;
+    align-items: center;
+    justify-content: center;
+}
+.techDiv{
+    background-color: white;
+    width: 60%;
+    height:100vh;
+    padding: 50px;
+}

@@ -1,0 +1,25 @@
+.main{
+   display:flex;
+   align-items: center;
+   justify-content: center
+}
+.homeMain{
+    width: 60%;
+    background-color: aliceblue;
+}
+.homeMainChil{
+    background-color: white;
+}
+.welcome{
+    padding: 50px;
+}
+.welcome{
+    display: flex;
+}
+.image{
+    width: 100px;
+    height: 100px;
+}
+.row{
+    padding: 25px;
+}

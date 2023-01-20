@@ -1,0 +1,22 @@
+.scrollable-div {
+    background-color: brown;
+    height: 500px;
+    overflow: auto;
+    margin: 40px;
+    text-align: justify;
+    padding: 50px;
+    text-align: center;
+    color: whitesmoke;
+    font-size: 15px;
+  }
+  .heading{
+    text-align: center;
+    color: aliceblue;
+    font-size: 70px;
+  }
+  .smallHeading{
+    text-align: center;
+    color: aliceblue;
+    font-size: 40px;
+
+  }
